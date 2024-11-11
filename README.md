@@ -1,4 +1,4 @@
-# LUIT-ChangeManagmentSystem
+# LU IT Change Advisory Board
 Lincoln University Change Management System
 
 ## Overview
