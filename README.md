@@ -71,5 +71,6 @@ A modern change management system developed for Lincoln University's Information
 ---
 ![Status](https://img.shields.io/badge/Status-Production_Ready-00A162?style=for-the-badge)  
 *Deployed & Operational at Lincoln University Information Technology Services*
+
 ---
 *Note: This project was developed as part of an Industry Project at Lincoln University Masters of Applied Computing program. For more information, please contact the LU IT Service Manager.*
