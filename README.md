@@ -20,13 +20,19 @@ A modern change management system developed for Lincoln University's Information
 
 ## Key Improvements
 
+- **New Request**:
 ![Legacy vs New - 1](https://github.com/user-attachments/assets/d30e261b-3b9b-4dc9-9fb0-bf6e547e395b)
+
+- **Request View**:
 ![Legacy vs New - 3](https://github.com/user-attachments/assets/163e4606-fcb8-46a3-bd92-9721a5360c48)
+
+- **Approval**:
 ![Legacy vs New -2 ](https://github.com/user-attachments/assets/986a153d-0d54-4370-9255-affa926a7791)
 
-### Modern Interface
+### UX Interface
 
-![Design UX](https://github.com/user-attachments/assets/c3864903-c910-4914-bb0f-70624d35c7ce)
+- **UX Design**:
+![Design](https://github.com/user-attachments/assets/c3864903-c910-4914-bb0f-70624d35c7ce)
 
 - Single-screen change request form
 - Intuitive task management
