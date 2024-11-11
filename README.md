@@ -68,7 +68,7 @@ A modern change management system developed for Lincoln University's Information
 - Production environment validation
 
 ## Project Status
-✅ Successfully deployed and in use at Lincoln University ITS department
+![Glassdoor](https://img.shields.io/badge/Completed-00A162?style=for-the-badge) Successfully deployed and in use at Lincoln University ITS department
 
 ---
 *Note: This project was developed as part of an Industry Project at Lincoln University Masters of Applied Computing program. For more information, please contact the LU IT Service Manager.*
