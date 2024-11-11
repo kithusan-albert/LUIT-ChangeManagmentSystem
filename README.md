@@ -67,8 +67,9 @@ A modern change management system developed for Lincoln University's Information
 - Cross-browser compatibility
 - Production environment validation
 
-## Project Status
-![Glassdoor](https://img.shields.io/badge/Completed-00A162?style=for-the-badge) Successfully deployed and in use at Lincoln University ITS department
+## Project
+![Status](https://img.shields.io/badge/Status-Production_Ready-00A162?style=for-the-badge)
+*Deployed & Operational at Lincoln University Information Technology Services*
 
 ---
 *Note: This project was developed as part of an Industry Project at Lincoln University Masters of Applied Computing program. For more information, please contact the LU IT Service Manager.*
