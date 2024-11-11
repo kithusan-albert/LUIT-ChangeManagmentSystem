@@ -10,7 +10,7 @@ A modern change management system developed for Lincoln University's Information
 - **Efficient Approval Workflows**: Streamlined process with automated notifications via email and Microsoft Teams
 - **Modern Tech Stack**: Built on Microsoft Power Platform (Power Apps, Power Automate, SharePoint)
 - **Cost-Effective**: Leverages existing Microsoft licenses with no additional licensing costs
-- 
+
 ## System Architecture
 
 ![Solution Architecture](https://github.com/user-attachments/assets/c9574463-d04f-4d43-835c-1e16aa08df82)
